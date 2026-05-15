@@ -1,0 +1,63 @@
+[
+  {
+    "projectId": 1,
+    "name": "CC Road - Mahalakshmi Layout",
+    "nameKn": "ಸಿಸಿ ರಸ್ತೆ - ಮಹಾಲಕ್ಷ್ಮಿ ಲೇಔಟ್",
+    "description": "Construction of new cement concrete road with drainage system for improved neighborhood connectivity.",
+    "descriptionKn": "ಸುಧಾರಿತ ನೆರೆಹೊರೆಯ ಸಂಪರ್ಕಕ್ಕಾಗಿ ಚರಂಡಿ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ ಹೊಸ ಸಿಮೆಂಟ್ ಕಾಂಕ್ರೀಟ್ ರಸ್ತೆ ನಿರ್ಮಾಣ.",
+    "budget": "₹15,00,000",
+    "progress": 85,
+    "status": "In Progress",
+    "category": "Road",
+    "beforeImageUrl": "https://images.unsplash.com/photo-1530631673369-bc20fdb32ff8?auto=format&fit=crop&w=800&q=80",
+    "afterImageUrl": "https://images.unsplash.com/photo-1541888941259-773a9417d057?auto=format&fit=crop&w=800&q=80",
+    "agencyName": "Public Works Department",
+    "agencyNameKn": "ಲೋಕೋಪಯೋಗಿ ಇಲಾಖೆ",
+    "startDate": "12/01/2024",
+    "expectedCompletionDate": "20/05/2026",
+    "statusUpdates": [
+      { "date": "15/01/2024", "text": "Excavation completed for the main stretch.", "textKn": "ಮುಖ್ಯ ಭಾಗಕ್ಕೆ ಉತ್ಖನನ ಪೂರ್ಣಗೊಂಡಿದೆ." },
+      { "date": "05/02/2024", "text": "Drainage pipes laid and leveling done.", "textKn": "ಚರಂಡಿ ಪೈಪ್‌ಗಳನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ ಮತ್ತು ಮಟ್ಟ ಮಾಡಲಾಗಿದೆ." },
+      { "date": "20/03/2024", "text": "Foundational layer work in progress.", "textKn": "ಅಡಿಪಾಯದ ಪದರದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ." }
+    ]
+  },
+  {
+    "projectId": 2,
+    "name": "R.O. Water Plant - Ward 5",
+    "nameKn": "ಆರ್.ಒ. ನೀರಿನ ಘಟಕ - ವಾರ್ಡ್ 5",
+    "description": "Installation of high-capacity Reverse Osmosis water purification plant to provide clean drinking water to 500+ households.",
+    "descriptionKn": "500 ಕ್ಕೂ ಹೆಚ್ಚು ಮನೆಗಳಿಗೆ ಶುದ್ಧ ಕುಡಿಯುವ ನೀರನ್ನು ಒದಗಿಸಲು ಹೆಚ್ಚಿನ ಸಾಮರ್ಥ್ಯದ ರಿವರ್ಸ್ ಆಸ್ಮೋಸಿಸ್ ನೀರು ಸಂಸ್ಕರಣಾ ಘಟಕದ ಸ್ಥಾಪನೆ.",
+    "budget": "₹5,50,000",
+    "progress": 100,
+    "status": "Completed",
+    "category": "Water",
+    "beforeImageUrl": "https://images.unsplash.com/photo-1516383274235-5f42d6c6426d?auto=format&fit=crop&w=800&q=80",
+    "afterImageUrl": "https://images.unsplash.com/photo-1581094288338-2314dddb7e8c?auto=format&fit=crop&w=800&q=80",
+    "agencyName": "Nirmala Nagara Services",
+    "agencyNameKn": "ನಿರ್ಮಲ ನಗರ ಸೇವೆಗಳು",
+    "startDate": "10/11/2023",
+    "expectedCompletionDate": "15/02/2024",
+    "statusUpdates": [
+      { "date": "11/11/2023", "text": "Site survey and equipment order placed.", "textKn": "ಸೈಟ್ ಸಮೀಕ್ಷೆ ಮತ್ತು ಸಲಕರಣೆಗಳ ಆದೇಶವನ್ನು ನೀಡಲಾಗಿದೆ." },
+      { "date": "01/12/2023", "text": "Plant structure completed.", "textKn": "ಘಟಕದ ರಚನೆ ಪೂರ್ಣಗೊಂಡಿದೆ." },
+      { "date": "15/02/2024", "text": "Testing successful and handed over to panchayat.", "textKn": "ಪರೀಕ್ಷೆ ಯಶಸ್ವಿಯಾಗಿದೆ ಮತ್ತು ಪಂಚಾಯತ್‌ಗೆ ಹಸ್ತಾಂತರಿಸಲಾಗಿದೆ." }
+    ]
+  },
+  {
+    "projectId": 3,
+    "name": "Smart Classroom Project - Govt School",
+    "nameKn": "ಸ್ಮಾರ್ಟ್ ಕ್ಲಾಸ್‌ರೂಮ್ ಯೋಜನೆ - ಸರ್ಕಾರಿ ಶಾಲೆ",
+    "description": "Digitization of 5 classrooms with interactive whiteboards and solar power backup for better rural education.",
+    "descriptionKn": "ಉತ್ತಮ ಗ್ರಾಮೀಣ ಶಿಕ್ಷಣಕ್ಕಾಗಿ ಸಂವಾದಾತ್ಮಕ ವೈಟ್‌ಬೋರ್ಡ್‌ಗಳು ಮತ್ತು ಸೌರಶಕ್ತಿ ಬ್ಯಾಕಪ್‌ನೊಂದಿಗೆ 5 ತರಗತಿ ಕೊಠಡಿಗಳ ಡಿಜಿಟಲೀಕರಣ.",
+    "budget": "₹12,00,000",
+    "progress": 0,
+    "status": "Not Started",
+    "category": "Education",
+    "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=800&q=80",
+    "agencyName": "Education Dept Zilla Panchayat",
+    "agencyNameKn": "ಶಿಕ್ಷಣ ಇಲಾಖೆ ಜಿಲ್ಲಾ ಪಂಚಾಯತ್",
+    "startDate": "01/06/2024",
+    "expectedCompletionDate": "30/08/2024",
+    "statusUpdates": []
+  }
+]

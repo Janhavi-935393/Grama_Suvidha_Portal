@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ಸುವಿಧಾ ಪೋರ್ಟಲ್</string>
+    <string name="tagline">ಪ್ರತಿ ಗ್ರಾಮಕ್ಕೂ ಪಾರದರ್ಶಕತೆ</string>
+    <string name="login_citizen">ನಾಗರಿಕರಾಗಿ ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="register_citizen">ನಾಗರಿಕರಾಗಿ ನೋಂದಾಯಿಸಿ</string>
+    <string name="login_admin">ನಿರ್ವಾಹಕರಾಗಿ ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="register_admin">ನಿರ್ವಾಹಕರಾಗಿ ನೋಂದಾಯಿಸಿ</string>
+    <string name="project_list">ಯೋಜನೆಯ ಪಟ್ಟಿ</string>
+    <string name="progress">ಪ್ರಗತಿ</string>
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="submit_rating">ರೇಟಿಂಗ್ ಸಲ್ಲಿಸಿ</string>
+    <string name="report_issue">ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="thank_you_feedback">ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗಾಗಿ ಧನ್ಯವಾದಗಳು!</string>
+    <string name="issue_reported">ಸಮಸ್ಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ವರದಿ ಮಾಡಲಾಗಿದೆ.</string>
+    <string name="offline_mode">ಆಫ್‌ಲೈನ್ ಮೋಡ್ — ಸಂಗ್ರಹಿಸಿದ ಡೇಟಾವನ್ನು ತೋರಿಸಲಾಗಿದೆ</string>
+    <string name="before">ಮೊದಲು</string>
+    <string name="after">ನಂತರ</string>
+    <string name="no_ratings">ಇನ್ನೂ ಯಾವುದೇ ರೇಟಿಂಗ್‌ಗಳಿಲ್ಲ</string>
+    <string name="admin_dashboard">ನಿರ್ವಾಹಕ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="add_project">ಯೋಜನೆಯನ್ನು ಸೇರಿಸಿ</string>
+    <string name="save_project">ಯೋಜನೆಯನ್ನು ಉಳಿಸಿ</string>
+    <string name="cancel">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="view_feedback">ಪ್ರತಿಕ್ರಿಯೆ ವರದಿಗಳನ್ನು ವೀಕ್ಷಿಸಿ</string>
+    <string name="budget">ಬಜೆಟ್</string>
+    <string name="status">ಸ್ಥಿತಿ</string>
+    <string name="agency">ಏಜೆನ್ಸಿ</string>
+    <string name="start_date">ಪ್ರಾರಂಭದ ದಿನಾಂಕ</string>
+    <string name="expected_completion">ನಿರೀಕ್ಷಿತ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆ</string>
+    <string name="category">ವರ್ಗ</string>
+    <string name="description">ವಿವರಣೆ</string>
+    <string name="please_select_rating">ದಯವಿಟ್ಟು ನಕ್ಷತ್ರ ರೇಟಿಂಗ್ ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="field_required">ಈ ಕ್ಷೇತ್ರವು ಕಡ್ಡಾಯವಾಗಿದೆ.</string>
+    <string name="no_feedback">ಇನ್ನೂ ಯಾವುದೇ ಪ್ರತಿಕ್ರಿಯೆಗಳಿಲ್ಲ</string>
+    <string name="status_updates">ಸ್ಥಿತಿ ನವೀಕರಣಗಳು</string>
+    <string name="avg_rating">ಸರಾಸರಿ ರೇಟಿಂಗ್</string>
+    <string name="total_projects">ಒಟ್ಟು ಯೋಜನೆಗಳು</string>
+    <string name="pending_reviews">ಬಾಕಿ ಇರುವ ವಿಮರ್ಶೆಗಳು</string>
+    <string name="edit_project">ಯೋಜನೆಯನ್ನು ಸಂಪಾದಿಸಿ</string>
+    <string name="logout">ನಿರ್ಗಮಿಸು</string>
+    <string name="language_toggle">ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಿ</string>
+    <string name="username">ಬಳಕೆದಾರಹೆಸರು</string>
+    <string name="password">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="location">ಸ್ಥಳ</string>
+    <string name="user_id">ಬಳಕೆದಾರರ ID</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="register">ನೋಂದಾಯಿಸಿ</string>
+    <string name="citizen_login_title">ನಾಗರಿಕ ಲಾಗಿನ್</string>
+    <string name="citizen_register_title">ನಾಗರಿಕ ನೋಂದಣಿ</string>
+    <string name="admin_login_title">ನಿರ್ವಾಹಕ ಲಾಗಿನ್</string>
+    <string name="admin_register_title">ನಿರ್ವಾಹಕ ನೋಂದಣಿ</string>
+    <string name="admin_profession">ನಿರ್ವಾಹಕ ವೃತ್ತಿ</string>
+    <string name="admin_id">ನಿರ್ವಾಹಕ ID</string>
+
+    <string name="project_name">ಯೋಜನೆಯ ಹೆಸರು</string>
+    <string name="required">ಅಗತ್ಯವಿದೆ</string>
+    <string name="progress_value">ಪ್ರಗತಿ: %1$d%%</string>
+    <string name="end_date">ಮುಕ್ತಾಯ ದಿನಾಂಕ</string>
+    <string name="image_url">ಚಿತ್ರದ URL</string>
+    <string name="feedback_submitted">ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="no_updates">ಇನ್ನೂ ಯಾವುದೇ ನವೀಕರಣಗಳಿಲ್ಲ</string>
+    <string name="citizen_feedback">ನಾಗರಿಕ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="give_feedback">ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ</string>
+    <string name="ratings_summary">%1$.1f / 5.0 (%2$d ರೇಟಿಂಗ್‌ಗಳು)</string>
+    <string name="issue_label">ಸಮಸ್ಯೆ</string>
+    <string name="back">ಹಿಂದಕ್ಕೆ</string>
+    <string name="rating_desc">ರೇಟಿಂಗ್ %1$d</string>
+    <string name="project_id_label">ಯೋಜನೆ #%1$d</string>
+
+    <!-- Categories -->
+    <string name="cat_road">ರಸ್ತೆ</string>
+    <string name="cat_water">ನೀರು</string>
+    <string name="cat_community">ಸಮುದಾಯ</string>
+    <string name="cat_health">ಆರೋಗ್ಯ</string>
+    <string name="cat_education">ಶಿಕ್ಷಣ</string>
+
+    <!-- Statuses -->
+    <string name="status_not_started">ಪ್ರಾರಂಭವಾಗಿಲ್ಲ</string>
+    <string name="status_in_progress">ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+    <string name="status_completed">ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+</resources>

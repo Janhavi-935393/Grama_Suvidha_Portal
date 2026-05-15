@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grama-Suvidha Portal</string>
+    <string name="tagline">Transparency for Every Village</string>
+    <string name="login_citizen">Login as Citizen</string>
+    <string name="register_citizen">Register as Citizen</string>
+    <string name="login_admin">Login as Admin</string>
+    <string name="register_admin">Register as Admin</string>
+    <string name="project_list">Project List</string>
+    <string name="progress">Progress</string>
+    <string name="feedback">Feedback</string>
+    <string name="submit_rating">Submit Rating</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="thank_you_feedback">Thank you for your feedback!</string>
+    <string name="issue_reported">Issue reported successfully.</string>
+    <string name="offline_mode">Offline Mode — Cached data shown</string>
+    <string name="before">Before</string>
+    <string name="after">After</string>
+    <string name="no_ratings">No ratings yet</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="add_project">Add Project</string>
+    <string name="save_project">Save Project</string>
+    <string name="cancel">Cancel</string>
+    <string name="view_feedback">View Feedback Reports</string>
+    <string name="budget">Budget</string>
+    <string name="status">Status</string>
+    <string name="agency">Agency</string>
+    <string name="start_date">Start Date</string>
+    <string name="expected_completion">Expected Completion</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="please_select_rating">Please select a star rating.</string>
+    <string name="field_required">This field is required.</string>
+    <string name="no_feedback">No feedback yet</string>
+    <string name="status_updates">Status Updates</string>
+    <string name="avg_rating">Average Rating</string>
+    <string name="total_projects">Total Projects</string>
+    <string name="pending_reviews">Pending Reviews</string>
+    <string name="edit_project">Edit Project</string>
+    <string name="logout">Logout</string>
+    <string name="language_toggle">Toggle Language</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="location">Location</string>
+    <string name="user_id">User ID</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="citizen_login_title">Citizen Login</string>
+    <string name="citizen_register_title">Citizen Registration</string>
+    <string name="admin_login_title">Admin Login</string>
+    <string name="admin_register_title">Admin Registration</string>
+    <string name="admin_profession">Admin Profession</string>
+    <string name="admin_id">Admin ID</string>
+
+    <string name="project_name">Project Name</string>
+    <string name="required">Required</string>
+    <string name="progress_value">Progress: %1$d%%</string>
+    <string name="end_date">End Date</string>
+    <string name="image_url">Image URL</string>
+    <string name="feedback_submitted">Feedback submitted successfully</string>
+    <string name="no_updates">No updates yet</string>
+    <string name="citizen_feedback">Citizen Feedback</string>
+    <string name="give_feedback">Give Feedback</string>
+    <string name="ratings_summary">%1$.1f / 5.0 (%2$d ratings)</string>
+    <string name="issue_label">ISSUE</string>
+    <string name="back">Back</string>
+    <string name="rating_desc">Rating %1$d</string>
+    <string name="project_id_label">Project #%1$d</string>
+
+    <!-- Categories -->
+    <string name="cat_road">Road</string>
+    <string name="cat_water">Water</string>
+    <string name="cat_community">Community</string>
+    <string name="cat_health">Health</string>
+    <string name="cat_education">Education</string>
+
+    <!-- Statuses -->
+    <string name="status_not_started">Not Started</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_completed">Completed</string>
+</resources>
